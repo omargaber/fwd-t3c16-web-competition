@@ -51,8 +51,8 @@ The user list should map a many-to-many relationship defining the movies a user 
 
 ## Submission Method
 You are going to be working as teams and below are the guidelines for submitting your work:
-- Create a branch with your team name to which you will push your code.
-- The team name will be assigned to you by your Session Lead.
+- Fork the repository then clone it to start working on the activity.
+- Follow your SL's instructions on how to send your submission during the session.
 
 ## Grading Scheme
 You are going to be receiving feedback based on the following criteria:
